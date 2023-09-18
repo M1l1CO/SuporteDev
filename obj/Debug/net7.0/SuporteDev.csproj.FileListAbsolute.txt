@@ -1,0 +1,15 @@
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.csproj.AssemblyReference.cache
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.AssemblyInfoInputs.cache
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.AssemblyInfo.cs
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.csproj.CoreCompileInputs.cache
+C:\Users\daaraujo\Documents\SuporteDev\bin\Debug\net7.0\SuporteDev.exe
+C:\Users\daaraujo\Documents\SuporteDev\bin\Debug\net7.0\SuporteDev.deps.json
+C:\Users\daaraujo\Documents\SuporteDev\bin\Debug\net7.0\SuporteDev.runtimeconfig.json
+C:\Users\daaraujo\Documents\SuporteDev\bin\Debug\net7.0\SuporteDev.dll
+C:\Users\daaraujo\Documents\SuporteDev\bin\Debug\net7.0\SuporteDev.pdb
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.dll
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\refint\SuporteDev.dll
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.pdb
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\SuporteDev.genruntimeconfig.cache
+C:\Users\daaraujo\Documents\SuporteDev\obj\Debug\net7.0\ref\SuporteDev.dll

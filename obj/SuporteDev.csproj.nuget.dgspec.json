@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\daaraujo\\Documents\\SuporteDev\\SuporteDev.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\daaraujo\\Documents\\SuporteDev\\SuporteDev.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\daaraujo\\Documents\\SuporteDev\\SuporteDev.csproj",
+        "projectName": "SuporteDev",
+        "projectPath": "c:\\Users\\daaraujo\\Documents\\SuporteDev\\SuporteDev.csproj",
+        "packagesPath": "C:\\Users\\daaraujo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\daaraujo\\Documents\\SuporteDev\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daaraujo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "\\\\10.10.10.250\\Tecnologia\\Sistemas\\Desenvolvimento\\Paths e Dicas\\DOTNET\\NuGet": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/vidalink/auth/634138b1-d6aa-4db6-b388-b583b5c2f855/api/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
